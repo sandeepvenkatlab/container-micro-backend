@@ -1,0 +1,7 @@
+flask==2.3.2
+mariadb==1.1.6
+mysql-connector-python==8.0.33
+gunicorn==20.1.0
+boto3==1.26.153
+python3-pip
+python3
